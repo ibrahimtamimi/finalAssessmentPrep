@@ -4,7 +4,8 @@
  - clone the repo from your gitHub to your local 
  - now you have the assessment and you can start    
  - when you finish push your code to gitHub
- - create  a pull request from your gitHub to Rbk-org  
+ - create a pull request from your gitHub to Rbk-org 
+ > Note : choose the branch as your name DONT pull request to the master  
 
 
  # The Instructions
